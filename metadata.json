@@ -1,0 +1,5 @@
+{
+  "name": "Spectral: Audio Frequency Assistant",
+  "description": "An interactive frequency spectrum tool for musicians and audio engineers, powered by Gemini AI to diagnose and fix mixing issues.",
+  "requestFramePermissions": []
+}
